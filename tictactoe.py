@@ -1,5 +1,3 @@
-"""First but not working""" 
-"""After Few Days Later -> It's Working Fine And it's "MINE" """ """But 2 dimensional (2D) array is inherited"""
 from tkinter import * 
 from tkinter import ttk
 from tkinter.messagebox import showinfo, showerror, showwarning, askyesno
